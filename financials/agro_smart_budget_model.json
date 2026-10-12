@@ -1,0 +1,16 @@
+{
+  "project": "Pensiunea Agro-Smart 2026",
+  "currency": "EUR",
+  "total_investment": 1443000,
+  "capacity": "14 rooms (24 beds) + 6 wooden cabins",
+  "budget_breakdown": [
+    {"category": "Human Resources & Project Team (24 months)", "cost_eur": 140000},
+    {"category": "Main Guest House Construction (nZEB)", "cost_eur": 850000},
+    {"category": "6 Eco Wooden Cabins", "cost_eur": 120000},
+    {"category": "Green Energy Systems (Solar & Heat Pumps)", "cost_eur": 85000},
+    {"category": "Smart Guest & IoT Automation", "cost_eur": 18000},
+    {"category": "Furnishings & Commercial Kitchen", "cost_eur": 110000},
+    {"category": "Wine Cellar & Restaurant Fitting", "cost_eur": 65000},
+    {"category": "Engineering, Permitting & Audit", "cost_eur": 55000}
+  ]
+}
