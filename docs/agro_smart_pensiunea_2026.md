@@ -66,7 +66,39 @@ TOTAL INVESTIȚIE: 1.443.000 €
 11. ECHIPA ȘI MANAGEMENTUL
 - Administrator Pensiune, Contabil externalizat, Recepționeri (sistem hibrid cu Smart Check-in), Somelier/Responsabil cramă, Bucătar șef, Personal curățenie, Tehnician mentenanță externalizat.
 
+
+
 12. SHUTTLE-UL EXPERIENȚELOR LOCALE
 - Mașină: SUV Electric sau Microbuz 8+1 locuri dotat cu suport pentru biciclete și Wi-Fi. Utilizat pentru transfer, tururi de cramă și aprovizionare cu produse proaspete de la fermieri.
+- 
+Pentru Pensiunea Agro-Smart: „Shuttle-ul Experiențelor Locale”
+Mașina devine un instrument de marketing și confort pentru turiști.
+•	Tip mașină: SUV Electric sau Microbuz 8+1 locuri (ex: Ford E-Transit Custom).
+•	Dotări specifice: Suport pentru biciclete electrice, portbagaj spațios pentru echipament sportiv, Wi-Fi la bord.
+•	Utilitate:
+•	Transfer aeroport/gară: Oferă confort clienților care nu vin cu mașina personală.
+•	Tururi de cramă/agroturism: Transportul grupurilor la obiectivele locale fără ca aceștia să conducă (important pentru degustări).
+•	Aprovizionare: Transportul produselor proaspete de la fermierii locali.
+•	Buget estimat 2026: 45.000 € - 55.000 €.
+•	Sursă recuperare costuri: Taxarea serviciului de transfer sau includerea lui în pachete VIP.
+Risc	Soluție (Strategie 2026)
+Autonomie scăzută iarna	Instalarea unei stații de încărcare rapidă (Wallbox) de 22kW în curtea pensiunii/centrului.
+Costuri mentenanță	Mașinile electrice au cu 40% mai puține piese în mișcare; mentenanța e mai ieftină decât la diesel.
+Asigurare (CASCO)	Obligatorie, inclusă în costurile indirecte ale proiectului.
+5. Jalon Nou în Graficul GANTT:
+•	Luna 19: Lansarea procedurii de achiziție autovehicul (Licitatie/Leasing).
+•	Luna 21: Recepția mașinii și colantarea cu elementele de vizibilitate ale proiectului (Logouri PNRR/Branding Pensiune).
+•	
+3. DIFERENȚIATORUL 2026: „ANGAJATUL VIRTUAL”
+
+•	În Pensiune: Sistemul de management al energiei oprește climatizarea în camerele goale, economisind echivalentul unui salariu lunar în fiecare an.
+________________________________________
+Sfat de implementare pentru Primării:
+crearea de locuri de muncă pentru comunitatea locală. Aceasta este principala monedă de schimb pentru votul în Consiliul Local.
+
+Domnule Primar, proiectul a fost conceput special pentru a fi sustenabil și ușor de urmărit. Rolul de Manager de Proiect în 2026 nu mai este despre birocrație, ci despre gestionarea tehnologiei și a termenelor
+
+
+
 
 
