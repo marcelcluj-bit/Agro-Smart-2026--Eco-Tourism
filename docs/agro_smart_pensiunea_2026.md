@@ -70,7 +70,3 @@ TOTAL INVESTIȚIE: 1.443.000 €
 - Mașină: SUV Electric sau Microbuz 8+1 locuri dotat cu suport pentru biciclete și Wi-Fi. Utilizat pentru transfer, tururi de cramă și aprovizionare cu produse proaspete de la fermieri.
 
 
-TEAM AND MANAGEMENT
-Guesthouse Manager, Outsourced Accountant, Receptionists (hybrid system with Smart Check-in), Sommelier/Winery Manager, Head Chef, Cleaning Staff, Outsourced Maintenance Technician.
-LOCAL EXPERIENCE SHUTTLE
-Vehicle: Electric SUV or 8+1 seater minibus equipped with a bike rack and Wi-Fi. Used for transfers, winery tours, and sourcing fresh produce from local farmers.
