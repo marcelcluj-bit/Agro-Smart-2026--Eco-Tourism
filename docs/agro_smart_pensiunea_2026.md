@@ -68,3 +68,62 @@ TOTAL INVESTIȚIE: 1.443.000 €
 
 12. SHUTTLE-UL EXPERIENȚELOR LOCALE
 - Mașină: SUV Electric sau Microbuz 8+1 locuri dotat cu suport pentru biciclete și Wi-Fi. Utilizat pentru transfer, tururi de cramă și aprovizionare cu produse proaspete de la fermieri.
+
+By English
+
+
+[PROJECT TEMPLATE] "AGRO-SMART 2026" GUESTHOUSE Capacity: 14 rooms (24 beds) + 6 wooden cabins | Standard: 3 Flowers / nZEB / Digitalized
+
+CONTEXT AND BACKGROUND ANALYSIS (Advice for Municipalities) Municipalities should focus on "Rural Revitalization." Describe the locality as a destination that blends historical heritage with modern amenities. Mention that the guesthouse will use products from local farmers (agritourism integration).
+
+PROBLEM TREE (Why invest?)
+
+Root Cause: Lack of certified accommodation and modern leisure facilities in the area.
+Core Problem: Untapped tourism potential and youth out-migration from the locality.
+Effects: Low local budget revenue, tarnished local image, tourists merely passing through without staying overnight.
+OBJECTIVES TREE (What do we achieve?)
+Means: Construction of a guesthouse featuring a wine cellar, restaurant, and eco-friendly cabins.
+Core Objective: Creating a sustainable tourism hub in the locality.
+Outcome: 40% increase in overnight stays, creation of 10 jobs, and promotion of the local brand.
+LIST OF ACTIVITIES (2026 Implementation Workflow)
+Preparation: Feasibility Study (SF) & Technical Design (PT) finalized | Procurement of nZEB design services
+Construction: "Shell and core" construction | Use of eco-friendly materials (wood, local stone)
+Systems: Energy independence | Installation of heat pumps & photovoltaic panels
+Digitalization: Smart Guest Experience | Self-check-in, Wi-Fi 6, energy management
+Promotion: Booking/Airbnb listing | Social media campaign & official launch
+RISK ANALYSIS (CRITICAL FOR SUCCESS)
+Rising construction material costs: High probability, high impact | Strategy: Fixed-price contracts and advance stock purchasing.
+Shortage of skilled staff: Medium probability, critical impact | Strategy: Partnerships with vocational schools or providing employee accommodation.
+Low seasonality: Medium probability, medium impact | Strategy: Creating "Work from Guesthouse" packages for digital nomads.
+Cybersecurity (IoT): Low probability, medium impact | Strategy: Implementing hardware firewalls for smart systems.
+"SMART" TECHNICAL SPECIFICATIONS (The €1 Package)
+IoT systems: Temperature sensors that automatically lower the heat when the guest leaves the room.
+Hardware: Management laptops (min. 16GB RAM) for handling reservations and the 4K surveillance system.
+Leisure/Amenities: Charging stations for e-bikes and electric cars (mandatory by 2026).
+SUSTAINABILITY ANALYSIS (PPP) If the City Hall owns the land, it can offer the project to a private investor via a 25-year concession. Benefit for Municipality: Annual royalty + Promotion of the locality.
+Benefit for Private Partner: Access to a "shovel-ready" project with streamlined permitting.
+"AGRO-SMART 2026" ESTIMATED BUDGET
+Human Resources: €140,000
+Guesthouse Construction (nZEB): €850,000
+Wooden Cabins (6 units): €120,000
+Green Energy Systems: €85,000
+Smart & IoT Equipment: €18,000
+Furniture & Kitchen Equipment: €110,000
+Winery & Restaurant Fit-out: €65,000
+Design & Consulting: €55,000 TOTAL INVESTMENT: €1,443,000
+PROJECT MILESTONES
+Milestone 1 (Month 2): Completion of technical documentation and obtaining the Urban Planning Certificate.
+Milestone 2 (Month 5): Obtaining the Building Permit.
+Milestone 3 (Month 8): Completion of the structural shell ("grey stage").
+Milestone 4 (Month 14): Completion of the photovoltaic system and heat pumps.
+Milestone 5 (Month 18): Implementation of the Smart Guest system.
+Milestone 6 (Month 22): Final acceptance of works and obtaining operational permits.
+Milestone 7 (Month 24): Market launch.
+SWOT ANALYSIS
+Strengths: nZEB energy independence, IoT system, modular design. Weaknesses: 15% higher initial investment, reliance on internet connectivity (5G).
+Opportunities: Growth in rural tourism, green funding lines (PNRR), local branding via wineries.
+Threats: Rising material costs, seasonality, legislative changes.
+TEAM AND MANAGEMENT
+Guesthouse Manager, Outsourced Accountant, Receptionists (hybrid system with Smart Check-in), Sommelier/Winery Manager, Head Chef, Cleaning Staff, Outsourced Maintenance Technician.
+LOCAL EXPERIENCE SHUTTLE
+Vehicle: Electric SUV or 8+1 seater minibus equipped with a bike rack and Wi-Fi. Used for transfers, winery tours, and sourcing fresh produce from local farmers.
